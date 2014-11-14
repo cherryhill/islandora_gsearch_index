@@ -1,0 +1,6 @@
+name = "Islandora GSearch Index"
+description = "Forcibly add/update/remove islandora object from solr index via gsearch"
+dependencies[] = islandora_solr_search
+package = Chillco
+version = 7.x-0.1
+core = 7.x
